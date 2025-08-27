@@ -1,0 +1,308 @@
+{
+  "personality_descriptions": {
+    "1": {
+      "positive": {
+        "en": "Acts like a king, Leadership qualities, Independent personality, Influential power, Takes initiative, Innovator and pioneer, Determined, Analytical, Creative and wise, Intuitive and serious",
+        "hi": "राजा जैसा व्यवहार करता है, नेतृत्व गुण, स्वतंत्र व्यक्तित्व, प्रभावशाली शक्ति, पहल करता है, नवप्रवर्तक और अग्रणी, दृढ़ निश्चयी, विश्लेषणात्मक, रचनात्मक और बुद्धिमान, सहज और गंभीर"
+      },
+      "negative": {
+        "en": "bad leader, A bad influence will lead people into bad company, Being an innovator, negative thoughts may take over more easily.\n* Egoistic\n* Straightforward\n* Slightly dominating nature\n* Jealous\n* Aggressive\n* Very clever\n* Attracts backstabbers",
+        "hi": "बुरा नेता, बुरा प्रभाव लोगों को बुरी संगत में ले जाएगा, एक नवप्रवर्तक होने के नाते, नकारात्मक विचार आसानी से हावी हो सकते हैं।\n* अहंकारी\n* सीधा\n* थोड़ा हावी स्वभाव\n* ईर्ष्यालु\n* आक्रामक\n* बहुत चालाक\n* पीठ में छुरा घोंपने वालों को आकर्षित करता है"
+      },
+      "role": {
+        "en": "Father, Husband, King, CEO, Businessman, Straight shape, rigid, Emotionally distant",
+        "hi": "पिता, पति, राजा, सीईओ, व्यवसायी, सीधा आकार, कठोर, भावनात्मक रूप से दूर"
+      }
+    },
+    "2": {
+      "positive": {
+        "en": "Strong in communication, Diplomatic and tactful, Good at PR, Sharing and caring, Artistic and spiritual, Neat, clean, attractive",
+        "hi": "संचार में मजबूत, कूटनीतिक और व्यवहारकुशल, जनसंपर्क में अच्छा, साझा करने वाला और परवाह करने वाला, कलात्मक और आध्यात्मिक, साफ, सुथरा, आकर्षक"
+      },
+      "negative": {
+        "en": "Gossip Queen. They are habitual gossipers, often stirring trouble by passing on what they hear from one side to the other They form deep, lifelong bonds—friendship that spans seven lifetimes. But if they turn into enemies, that hatred runs just as deep, If they are a friend, they will keep your secret to themselves. But the day they become an enemy, they will reveal that secret to everyone.\n * Not Secretive – Tends to share thoughts and feelings openly. \n\t* Fickle Mind – Frequently changes opinions or decisions. \n\t* Argumentative – Often engages in debates or disagreements. \n\t* Indecisive – Struggles to make firm decisions. \n\t* Shy – Reserved or hesitant in social situations. \n\t* Feminine Traits – Shows soft, nurturing, or graceful behavior (regardless of gender). \n\t* Attracts Men or Women – Naturally draws attention or admiration from the opposite or same gender. \n\t* Possessive – Finds it difficult to share loved ones; overly attached. \n\t* Jealous – Easily feels envy in relationships or situations. \n\t* Addictions – May develop dependencies on tea, coffee, or alcohol. \n",
+        "hi": "गपशप रानी। वे आदतन गपशप करने वाले होते हैं, अक्सर एक तरफ से दूसरी तरफ जो सुनते हैं उसे आगे बढ़ाकर परेशानी पैदा करते हैं। वे गहरे, आजीवन बंधन बनाते हैं - ऐसी दोस्ती जो सात जन्मों तक चलती है। लेकिन अगर वे दुश्मन बन जाते हैं, तो वह नफरत उतनी ही गहरी चलती है, यदि वे दोस्त हैं, तो वे आपका रहस्य अपने पास रखेंगे। लेकिन जिस दिन वे दुश्मन बन जाते हैं, वे उस रहस्य को सभी को बता देंगे।\n* गुप्त नहीं - विचारों और भावनाओं को खुलकर साझा करने की प्रवृत्ति।\n* चंचल मन - अक्सर राय या निर्णय बदलता रहता है।\n* तर्कशील - अक्सर बहस या असहमति में शामिल होता है।\n* अनिर्णायक - दृढ़ निर्णय लेने में संघर्ष करता है।\n* शर्मीला - सामाजिक स्थितियों में आरक्षित या झिझकता है।\n* स्त्री गुण - नरम, पोषण करने वाला, या सुंदर व्यवहार दिखाता है (लिंग की परवाह किए बिना)।\n* पुरुषों या महिलाओं को आकर्षित करता है - स्वाभाविक रूप से विपरीत या समान लिंग से ध्यान या प्रशंसा खींचता है।\n* अधिकारी - प्रियजनों को साझा करने में मुश्किल पाता है; अत्यधिक संलग्न।\n* ईर्ष्यालु - संबंधों या स्थितियों में आसानी से ईर्ष्या महसूस करता है।\n* व्यसन - चाय, कॉफी, या शराब पर निर्भरता विकसित कर सकता है।"
+      },
+      "role": {
+        "en": "Mother, Wife, Queen, Deputy, Peacemaker, Hook-like curve shape, Emotionally expressive, needs companionship\n\n This is the number of speech and emotions. It’s about relationships, communication, and negotiation. It's called the number of the middleman—someone who can influence others through conversation. If two people are in conflict, this person can resolve it.",
+        "hi": "माँ, पत्नी, रानी, ​​उप-प्रतिनिधि, शांतिदूत, हुक जैसा घुमावदार आकार, भावनात्मक रूप से अभिव्यंजक, साथ की आवश्यकता है\n\nयह भाषण और भावनाओं की संख्या है। यह संबंधों, संचार और बातचीत के बारे में है। इसे बिचौलिए की संख्या कहा जाता है - कोई ऐसा व्यक्ति जो बातचीत के माध्यम से दूसरों को प्रभावित कर सकता है। यदि दो लोग विवाद में हैं, तो यह व्यक्ति इसे हल कर सकता है।"
+      }
+    },
+    "3": {
+      "positive": {
+        "en": "Fast in execution, Task and action-oriented, Expressive and spiritual, Creative, musical, imaginative",
+        "hi": "निष्पादन में तेज, कार्य और कार्रवाई-उन्मुख, अभिव्यंजक और आध्यात्मिक, रचनात्मक, संगीत, कल्पनाशील"
+      },
+      "negative": {
+        "en": "Quick-tempered, Argumentative and impatient, Makes rash decisions, Scattered energy, Directionless at times, Unforgiving and emotionally reactive, Tends to leave tasks unfinished\n * Quick Tempered – Easily angered. \n\t* Aggressive – Forceful and sometimes confrontational. \n\t* Impatient – Unable to wait calmly; restless and anxious. \n\t* Idealistic Approach – Thinks deeply, often overanalyzes; can be rigid in beliefs. \n",
+        "hi": "तेज-मिजाज, तर्कशील और अधीर, जल्दबाजी में निर्णय लेता है, बिखरी हुई ऊर्जा, कभी-कभी दिशाहीन, अक्षम्य और भावनात्मक रूप से प्रतिक्रियाशील, कार्यों को अधूरा छोड़ने की प्रवृत्ति।\n* तेज मिजाज – आसानी से गुस्सा हो जाता है।\n* आक्रामक – बलशाली और कभी-कभी टकराव वाला।\n* अधीर – शांति से इंतजार करने में असमर्थ; बेचैन और चिंतित।\n* आदर्शवादी दृष्टिकोण – गहराई से सोचता है, अक्सर अधिक विश्लेषण करता है; विश्वासों में कठोर हो सकता है।"
+      },
+      "role": {
+        "en": "Son/Daughter, Prince/Princess, Combination of Number 1 and 2 traits, Observant and artistic, Tends to exaggerate",
+        "hi": "बेटा/बेटी, राजकुमार/राजकुमारी, संख्या 1 और 2 के गुणों का संयोजन, अवलोकनशील और कलात्मक, अतिशयोक्ति की प्रवृत्ति"
+      }
+    },
+    "4": {
+      "positive": {
+        "en": "Strong-minded, Strategic and practical, Knowledge-seeking, Fast learner, Logical, evidence-based, Follows rules, law-abiding, Quick to react and rebound",
+        "hi": "दृढ़-इच्छाशक्ति वाला, रणनीतिक और व्यावहारिक, ज्ञान-साधक, तेज सीखने वाला, तार्किक, साक्ष्य-आधारित, नियमों का पालन करने वाला, कानून का पालन करने वाला, तेजी से प्रतिक्रिया करने वाला और ठीक होने वाला"
+      },
+      "negative": {
+        "en": "Strategist and planning zero,Egoistic and rebellious, Rigid and non-imaginative, Over-thinks, slow to adapt, Sharp-tongued, Lonely and greedy, Over-plans without execution",
+        "hi": "रणनीतिकार और योजना में शून्य, अहंकारी और विद्रोही, कठोर और कल्पनाहीन, अधिक सोचता है, अनुकूलन में धीमा, तेज-तर्रार, अकेला और लालची, निष्पादन के बिना अधिक योजना बनाता है"
+      },
+      "role": {
+        "en": "Prime Minister, Advisor, Sharp and harsh personality, 4-corner square-like shape",
+        "hi": "प्रधानमंत्री, सलाहकार, तीक्ष्ण और कठोर व्यक्तित्व, 4-कोने वाला वर्ग जैसा आकार"
+      }
+    },
+    "5": {
+      "positive": {
+        "en": "Directional clarity, Resourceful and energetic, Good developer, All-rounder, Grounded and wise, Quick thinker and investigator",
+        "hi": "दिशात्मक स्पष्टता, साधन संपन्न और ऊर्जावान, अच्छा डेवलपर, ऑल-राउंडर, जमीनी और बुद्धिमान, तेज विचारक और अन्वेषक"
+      },
+      "negative": {
+        "en": "They are directionless and don’t know where to go because their path isn’t clear due to a negative 5. Although number 5 represents quick thinking, negativity causes them to struggle with fast decision-making. Being inconsistent and negative, they experience many changes and challenges in life and can’t settle in one place.\n* Restlessness – Unable or unwilling to stay calm or still due to worry or boredom. \n\t* Stubborn – Unwilling to change one’s opinion or course of action. \n\t* Inconsistent – Lacking steady behavior or regularity. \n\t* Moody – Frequently changing moods unpredictably. \n\t* Unreliable – Not dependable or trustworthy. \n\t* Loves Freedom – Values independence and dislikes restrictions. \n\t* Free-Thinking Personality – Cannot be confined or controlled. \n\t* Destructive – Believes in breaking or disrupting things. \n\t* Critical – Often finds faults and judges harshly. \n\t* Temperamental – Prone to sudden emotional changes. \n\t* Discontent – Quickly dissatisfied and unwilling to accept things easily.",
+        "hi": "वे दिशाहीन होते हैं और उन्हें पता नहीं होता कि कहाँ जाना है क्योंकि नकारात्मक 5 के कारण उनका रास्ता साफ नहीं होता है। हालांकि संख्या 5 तेज सोचने का प्रतिनिधित्व करती है, नकारात्मकता उन्हें तेजी से निर्णय लेने में संघर्ष करती है। असंगत और नकारात्मक होने के कारण, वे जीवन में कई बदलावों और चुनौतियों का अनुभव करते हैं और एक जगह पर टिक नहीं पाते हैं।\n* बेचैनी – चिंता या बोरियत के कारण शांत या स्थिर रहने में असमर्थ या अनिच्छुक।\n* जिद्दी – अपनी राय या कार्यप्रणाली को बदलने के लिए अनिच्छुक।\n* असंगत – स्थिर व्यवहार या नियमितता की कमी।\n* मूडी – मूड में अप्रत्याशित रूप से बार-बार बदलाव।\n* अविश्वसनीय – भरोसेमंद या विश्वसनीय नहीं।\n* स्वतंत्रता से प्यार करता है – स्वतंत्रता को महत्व देता है और प्रतिबंधों को नापसंद करता है।\n* स्वतंत्र-विचारक व्यक्तित्व – सीमित या नियंत्रित नहीं किया जा सकता है।\n* विनाशकारी – चीजों को तोड़ने या बाधित करने में विश्वास रखता है।\n* आलोचनात्मक – अक्सर दोष ढूंढता है और कठोर निर्णय लेता है।\n* मूडी – अचानक भावनात्मक बदलावों के प्रति संवेदनशील।\n* असंतुष्ट – जल्दी असंतुष्ट हो जाता है और चीजों को आसानी से स्वीकार करने को तैयार नहीं होता है।"
+      },
+      "role": {
+        "en": "Business Developer, Fixer, Commander-like, Odd shape with combination of 2, 3, and 4 traits, Highly energetic \n\n 8 and 5 is 88, 2 and 5 is 22, 35 is 33. (Like a wandering mouse), they are pathfinders but never stay in one place. They are like lost souls, wandering aimlessly without direction—moving here and there without knowing where to go. They always need something in life. If you tell them to do a task, they will start it, but after 6 months to a year, they will realize, 'Why am I doing this? This is a useless task, I want to do something else.' Then they switch to another task.",
+        "hi": "बिजनेस डेवलपर, फिक्सर, कमांडर जैसा, 2, 3 और 4 गुणों के संयोजन के साथ विषम आकार, अत्यधिक ऊर्जावान\n\n8 और 5 88 हैं, 2 और 5 22 हैं, 35 33 हैं। (एक भटकते हुए चूहे की तरह), वे पथप्रदर्शक होते हैं लेकिन कभी एक जगह नहीं टिकते। वे खोई हुई आत्माओं की तरह हैं, बिना दिशा के भटकते रहते हैं - बिना यह जाने कि कहाँ जाना है। उन्हें जीवन में हमेशा कुछ न कुछ चाहिए होता है। यदि आप उन्हें कोई काम करने को कहते हैं, तो वे उसे शुरू करेंगे, लेकिन 6 महीने से एक साल बाद, उन्हें एहसास होगा, 'मैं यह क्यों कर रहा हूँ? यह एक बेकार काम है, मैं कुछ और करना चाहता हूँ।' फिर वे दूसरे काम पर स्विच कर जाते हैं।"
+      }
+    },
+    "6": {
+      "positive": {
+        "en": "Family-oriented, Protective and disciplined, Wise and creative, Truth and justice seeker",
+        "hi": "परिवार-उन्मुख, सुरक्षात्मक और अनुशासित, बुद्धिमान और रचनात्मक, सत्य और न्याय साधक"
+      },
+      "negative": {
+        "en": "Emotionally detached, Extravagant and wasteful, Egoistic and self-centered, Cowardly, avoids confrontation,Family first is approach",
+        "hi": "भावनात्मक रूप से अलग, फिजूलखर्ची और बर्बाद करने वाला, अहंकारी और आत्म-केंद्रित, कायर, टकराव से बचता है, परिवार पहले का दृष्टिकोण"
+      },
+      "role": {
+        "en": "Financier, Treasurer, Bookkeeper, Round, curved shape (symbolizes wealth retention), Accumulates wealth, multiple income sources\n\n Number 6 represents wealth, love, family orientation, protectiveness, and caring nature with good knowledge.",
+        "hi": "फाइनेंसर, कोषाध्यक्ष, मुनीम, गोल, घुमावदार आकार (धन प्रतिधारण का प्रतीक), धन संचय करता है, कई आय स्रोत\n\nसंख्या 6 धन, प्रेम, परिवार-उन्मुखीकरण, सुरक्षात्मकता और अच्छे ज्ञान के साथ देखभाल करने वाले स्वभाव का प्रतिनिधित्व करती है।"
+      }
+    },
+    "7": {
+      "positive": {
+        "en": "Good at networking, Charismatic and magnetic, High intellect, Passionate and appreciative, Multitasker and enterprising",
+        "hi": "नेटवर्किंग में अच्छा, करिश्माई और चुंबकीय, उच्च बुद्धि, जुनूनी और सराहनीय, मल्टीटास्कर और उद्यमी"
+      },
+      "negative": {
+        "en": "Fickle-minded and moody, Loves nightlife, Argumentative, manipulative, Jealous and procrastinating, Affairs, deceptive at times",
+        "hi": "चंचल मन और मूडी, नाइटलाइफ पसंद करता है, तर्कशील, हेरफेर करने वाला, ईर्ष्यालु और टालमटोल करने वाला, मामले, कभी-कभी धोखेबाज"
+      },
+      "role": {
+        "en": "Priest, Playboy, Charmer, Dictator, Long head with a drop line, Mentally strong, spiritual, hardworking\n\n Number 7 is the powerful networking and luck number, symbolizing strong connections, high mental ability, spiritual potential, but also risks like addiction and relationship issues if not balanced, with its absence causing ancestral (Pitru) problems in career, marriage, and finances.",
+        "hi": "पुजारी, प्लेबॉय, आकर्षक, तानाशाह, एक ड्रॉप लाइन वाला लंबा सिर, मानसिक रूप से मजबूत, आध्यात्मिक, मेहनती\n\nसंख्या 7 शक्तिशाली नेटवर्किंग और भाग्य की संख्या है, जो मजबूत कनेक्शन, उच्च मानसिक क्षमता, आध्यात्मिक क्षमता का प्रतीक है, लेकिन अगर संतुलित न हो तो व्यसन और संबंध संबंधी मुद्दों जैसे जोखिम भी हैं, इसकी अनुपस्थिति करियर, विवाह और वित्त में पैतृक (पितृ) समस्याओं का कारण बनती है।"
+      }
+    },
+    "8": {
+      "positive": {
+        "en": "Disciplined and responsible, Ambitious and loyal, Efficient, conservative, Hardworking and spiritual, Law and order oriented",
+        "hi": "अनुशासित और जिम्मेदार, महत्वाकांक्षी और वफादार, कुशल, रूढ़िवादी, मेहनती और आध्यात्मिक, कानून और व्यवस्था उन्मुख"
+      },
+      "negative": {
+        "en": "Highly stressed, Struggles with discipline, Judgmental and overthinking, Holds grudges, unforgiving, Attracts emotional and mental pressure\n * Struggling * Stressed * Judgmental * Complex \n * Lost in thoughts * Impatient * Has a poor memory * Temperamental \n * Tense * Like a porter carrying the world’s burden * A slave driver (expects others to work as hard as themselves) *Attracts men ",
+        "hi": "अत्यधिक तनावग्रस्त, अनुशासन के साथ संघर्ष करता है, निर्णय लेने वाला और अति-सोचने वाला, नाराजगी रखता है, अक्षम्य, भावनात्मक और मानसिक दबाव को आकर्षित करता है\n* संघर्षरत * तनावग्रस्त * निर्णय लेने वाला * जटिल\n* विचारों में खोया हुआ * अधीर * खराब याददाश्त वाला * मूडी\n* तनावपूर्ण * दुनिया का बोझ ढोने वाले कुली की तरह * एक गुलाम ड्राइवर (दूसरों से उतनी ही कड़ी मेहनत की उम्मीद करता है जितनी खुद करते हैं) * पुरुषों को आकर्षित करता है"
+      },
+      "role": {
+        "en": "Worker, Servant, Labourer, Complicated, struggling shape, Should avoid illegal means\n\n Number 8 represents hard work and labor; if it’s core but negative, the person must work actively—just sitting and talking won’t bring money. Being workaholic and ambitious, they carry the world’s burden like a coolie.",
+        "hi": "श्रमिक, नौकर, मजदूर, जटिल, संघर्षरत आकार, अवैध साधनों से बचना चाहिए\n\nसंख्या 8 कड़ी मेहनत और श्रम का प्रतिनिधित्व करती है; यदि यह मूल लेकिन नकारात्मक है, तो व्यक्ति को सक्रिय रूप से काम करना चाहिए - बस बैठकर बात करने से पैसा नहीं आएगा। कर्मठ और महत्वाकांक्षी होने के नाते, वे दुनिया का बोझ कुली की तरह उठाते हैं।"
+      }
+    },
+    "9": {
+      "positive": {
+        "en": "Clear-hearted, Business-minded and inspirational, Humanitarian, intelligent, Adventurous and generous, Spiritual and sophisticated",
+        "hi": "स्पष्ट-हृदय, व्यावसायिक दिमाग वाला और प्रेरणादायक, मानवीय, बुद्धिमान, साहसी और उदार, आध्यात्मिक और परिष्कृत"
+      },
+      "negative": {
+        "en": "Won't do business because their mindset isn't suited for it. However, since their number is the number of success, they will grow in life.\nGreedy, rigid, Perfectionist and selfish, Blames others, vengeful, Feels lonely in old age",
+        "hi": "व्यवसाय नहीं करेगा क्योंकि उसकी मानसिकता इसके लिए उपयुक्त नहीं है। हालांकि, चूंकि उसकी संख्या सफलता की संख्या है, इसलिए वह जीवन में आगे बढ़ेगा।\nलालची, कठोर, पूर्णतावादी और स्वार्थी, दूसरों को दोष देता है, प्रतिशोधी, बुढ़ापे में अकेला महसूस करता"
+      },
+      "role": {
+        "en": "Bodyguard, Philosopher, Merchant, Has a humanitarian, welfare-focused mindset, Always prepared to fight for justice",
+        "hi": "अंगरक्षक, दार्शनिक, व्यापारी, मानवीय, कल्याण-केंद्रित मानसिकता वाला, न्याय के लिए लड़ने के लिए हमेशा तैयार"
+      }
+    }
+  },
+  "h_series": {
+    "H1": {
+      "title": { "en": "H1: Intuition or \"Third Eye Vision\"", "hi": "H1: अंतर्ज्ञान या \"तीसरी आँख\"" },
+      "description": { "en": "H1 represents a person's intuition or foresight.", "hi": "H1 व्यक्ति के अंतर्ज्ञान या दूरदर्शिता का प्रतिनिधित्व करता है।" },
+      "interpretations": {
+        "1": { "en": "They have strong leadership capabilities.", "hi": "उनमें मजबूत नेतृत्व क्षमता होती है।" },
+        "2": { "en": "They know the right thing to say at the right time.", "hi": "वे जानते हैं कि सही समय पर सही बात क्या कहनी है।" },
+        "3": { "en": "They are action-oriented and quick to act.", "hi": "वे कार्य-उन्मुख होते हैं और तुरंत कार्रवाई करते हैं।" },
+        "4": { "en": "They are very smart but can be overconfident.", "hi": "वे बहुत होशियार होते हैं लेकिन अति आत्मविश्वासी हो सकते हैं।" },
+        "5": { "en": "They can anticipate problems and obstacles.", "hi": "वे समस्याओं और बाधाओं का पूर्वानुमान कर सकते हैं।" },
+        "6": { "en": "They have a good memory.", "hi": "उनकी याददाश्त अच्छी होती है।" },
+        "7": { "en": "They have a charming personality and attract the opposite sex.", "hi": "उनका व्यक्तित्व आकर्षक होता है और वे विपरीत लिंग को आकर्षित करते हैं।" },
+        "8": { "en": "They are prone to feeling stressed.", "hi": "वे तनावग्रस्त महसूस करने की प्रवृत्ति रखते हैं।" },
+        "9": { "en": "They are good humanitarians but can also be greedy.", "hi": "वे अच्छे मानवतावादी होते हैं लेकिन लालची भी हो सकते हैं।" }
+      }
+    },
+    "H2": {
+      "title": { "en": "H2: Hidden Potential or Blind Spots", "hi": "H2: छिपी हुई क्षमता या कमजोरियां" },
+      "description": { "en": "H2 reveals a person's hidden potential or blind spots.", "hi": "H2 व्यक्ति की छिपी हुई क्षमता या कमजोरियों को उजागर करता है।" },
+      "interpretations": {
+        "1": { "en": "They tend to behave like a big brother or sibling.", "hi": "वे बड़े भाई या बहन की तरह व्यवहार करते हैं।" },
+        "2": { "en": "They unknowingly hum or sing to themselves.", "hi": "वे अनजाने में गुनगुनाते या गाते हैं।" },
+        "3": { "en": "They are great thinkers and good listeners.", "hi": "वे महान विचारक और अच्छे श्रोता होते हैं।" },
+        "4": { "en": "They like to show off.", "hi": "उन्हें दिखावा करना पसंद है।" },
+        "5": { "en": "They have a hidden talent and are good at self-development.", "hi": "उनमें एक छिपी हुई प्रतिभा होती है और वे आत्म-विकास में अच्छे होते हैं।" },
+        "6": { "en": "They talk about and are good with money.", "hi": "वे पैसे के बारे में बात करते हैं और पैसे के मामले में अच्छे होते हैं।" },
+        "7": { "en": "They naturally attract people.", "hi": "वे स्वाभाविक रूप से लोगों को आकर्षित करते हैं।" },
+        "8": { "en": "They are often anxious and prone to overthinking.", "hi": "वे अक्सर चिंतित रहते हैं और अधिक सोचने की प्रवृत्ति रखते हैं।" },
+        "9": { "en": "They are creative but can also be greedy.", "hi": "वे रचनात्मक होते हैं लेकिन लालची भी हो सकते हैं।" }
+      }
+    },
+    "H3": {
+      "title": { "en": "H3: Relationship with Mother", "hi": "H3: माँ के साथ संबंध" },
+      "description": { "en": "H3 describes the nature of the person's relationship with their mother.", "hi": "H3 व्यक्ति के अपनी माँ के साथ संबंध की प्रकृति का वर्णन करता है।" },
+      "interpretations": {
+        "1": { "en": "The mother doesn't like to interfere in her child's life.", "hi": "माँ अपने बच्चे के जीवन में हस्तक्षेप करना पसंद नहीं करती है।" },
+        "2": { "en": "The mother always gets straight to the point.", "hi": "माँ हमेशा सीधे मुद्दे पर बात करती है।" },
+        "3": { "en": "The mother is often rude or impatient with her child.", "hi": "माँ अक्सर अपने बच्चे के साथ असभ्य या अधीर होती है।" },
+        "4": { "en": "The mother is always planning for her child's future.", "hi": "माँ हमेशा अपने बच्चे के भविष्य के लिए योजना बनाती है।" },
+        "5": { "en": "The mother can be an obstacle in the child's life, or she makes poor decisions for them, limiting their freedom.", "hi": "माँ बच्चे के जीवन में एक बाधा हो सकती है, या वह उनके लिए गलत निर्णय लेती है, जिससे उनकी स्वतंत्रता सीमित हो जाती है।" },
+        "6": { "en": "The mother always talks about money, or the child frequently borrows money.", "hi": "माँ हमेशा पैसे के बारे में बात करती है, या बच्चा अक्सर पैसे उधार लेता है।" },
+        "7": { "en": "The mother is protective and defensive.", "hi": "माँ सुरक्षात्मक और रक्षात्मक होती है।" },
+        "8": { "en": "The mother worries about the child's future and what they'll do next, which can be a source of stress.", "hi": "माँ बच्चे के भविष्य और वे आगे क्या करेंगे, इसके बारे में चिंतित रहती है, जो तनाव का स्रोत हो सकता है।" },
+        "9": { "en": "The mother feels the child lacks parental assets, and the child often feels this lack.", "hi": "माँ को लगता है कि बच्चे के पास माता-पिता की संपत्ति की कमी है, और बच्चा अक्सर इस कमी को महसूस करता है।" }
+      }
+    },
+    "H4": {
+      "title": { "en": "H4: Relationship with Father", "hi": "H4: पिता के साथ संबंध" },
+      "description": { "en": "H4 describes the nature of the person's relationship with their father.", "hi": "H4 व्यक्ति के अपने पिता के साथ संबंध की प्रकृति का वर्णन करता है।" },
+      "interpretations": {
+        "1": { "en": "The father doesn't like to interfere in his child's life.", "hi": "पिता अपने बच्चे के जीवन में हस्तक्षेप करना पसंद नहीं करते हैं।" },
+        "2": { "en": "The father always gets straight to the point.", "hi": "पिता हमेशा सीधे मुद्दे पर बात करते हैं।" },
+        "3": { "en": "The father is often rude or impatient with his child.", "hi": "पिता अक्सर अपने बच्चे के साथ असभ्य या अधीर होते हैं।" },
+        "4": { "en": "The father is always planning for his child's future.", "hi": "पिता हमेशा अपने बच्चे के भविष्य के लिए योजना बनाते हैं।" },
+        "5": { "en": "The father can be an obstacle in the child's life, or he makes poor decisions for them, limiting their freedom.", "hi": "पिता बच्चे के जीवन में एक बाधा हो सकते हैं, या वह उनके लिए गलत निर्णय लेते हैं, जिससे उनकी स्वतंत्रता सीमित हो जाती है।" },
+        "6": { "en": "The father always talks about money, or the child frequently borrows money.", "hi": "पिता हमेशा पैसे के बारे में बात करते हैं, या बच्चा अक्सर पैसे उधार लेता है।" },
+        "7": { "en": "The father is protective and defensive.", "hi": "पिता सुरक्षात्मक और रक्षात्मक होते हैं।" },
+        "8": { "en": "The father worries about the child's future and what they'll do next, which can be a source of stress.", "hi": "पिता बच्चे के भविष्य और वे आगे क्या करेंगे, इसके बारे में चिंतित रहते हैं, जो तनाव का स्रोत हो सकता है।" },
+        "9": { "en": "The father feels the child lacks parental assets, and the child often feels this lack.", "hi": "पिता को लगता है कि बच्चे के पास माता-पिता की संपत्ति की कमी है, और बच्चा अक्सर इस कमी को महसूस करता है।" }
+      }
+    },
+    "H5": {
+      "title": { "en": "H5: External Outlook", "hi": "H5: बाहरी दृष्टिकोण" },
+      "description": { "en": "H5 represents how other people perceive the person.", "hi": "H5 यह दर्शाता है कि दूसरे लोग व्यक्ति को कैसे देखते हैं।" },
+      "interpretations": {
+        "1": { "en": "The person is seen as independent and not needing support.", "hi": "व्यक्ति को स्वतंत्र और सहारे की आवश्यकता न रखने वाला माना जाता है।" },
+        "2": { "en": "The person is seen as a talkative and good communicator, often like an anchor.", "hi": "व्यक्ति को एक बातूनी और अच्छा संचारक माना जाता है, अक्सर एक एंकर की तरह।" },
+        "3": { "en": "People tend to take this person lightly.", "hi": "लोग इस व्यक्ति को हल्के में लेते हैं।" },
+        "4": { "en": "The person is perceived as smart.", "hi": "व्यक्ति को होशियार माना जाता है।" },
+        "5": { "en": "The person is seen as having a lot of problems.", "hi": "व्यक्ति को बहुत सारी समस्याओं वाला माना जाता है।" },
+        "6": { "en": "The person appears wealthy or rich.", "hi": "व्यक्ति धनी या अमीर दिखाई देता है।" },
+        "7": { "en": "The person always looks neat, clean, and has a regal appearance.", "hi": "व्यक्ति हमेशा साफ-सुथरा और शाही रूप में दिखता है।" },
+        "8": { "en": "The person always appears stressed.", "hi": "व्यक्ति हमेशा तनावग्रस्त दिखाई देता है।" },
+        "9": { "en": "The person appears greedy.", "hi": "व्यक्ति लालची दिखाई देता है।" }
+      }
+    }
+  },
+  "step_combinations": {
+    "1": {
+      "1": { "en": "You do not like to depend on others. People like to \"bad mouth\" you. You do things with no focus.", "hi": "आप दूसरों पर निर्भर रहना पसंद नहीं करते। लोग आपकी \"बुराई\" करना पसंद करते हैं। आप बिना किसी ध्यान के काम करते हैं।" },
+      "2": { "en": "You like to speak with authority, and unknowingly, people are \"bad mouthing\" you.", "hi": "आप अधिकार के साथ बात करना पसंद करते हैं, और अनजाने में, लोग आपकी \"बुराई\" कर रहे होते हैं।" },
+      "3": { "en": "You are very temperamental and very impatient.", "hi": "आप बहुत मूडी और बहुत अधीर हैं।" },
+      "4": { "en": "You are a planner, a good planner. The trouble is, you never seem to execute your plans.", "hi": "आप एक योजनाकार हैं, एक अच्छे योजनाकार। समस्या यह है कि आप अपनी योजनाओं को कभी निष्पादित नहीं कर पाते।" },
+      "5": { "en": "You have your own principle and you stick by it.", "hi": "आपका अपना सिद्धांत है और आप उस पर टिके रहते हैं।" },
+      "6": { "en": "You have to find wealth (money) by yourself. You have to work alone to achieve success resulting in many supporters/customers/network giving you that success/wealth", "hi": "आपको खुद ही धन (पैसा) खोजना होगा। आपको सफलता प्राप्त करने के लिए अकेले काम करना होगा जिसके परिणामस्वरूप कई समर्थक/ग्राहक/नेटवर्क आपको वह सफलता/धन देंगे।" },
+      "7": { "en": "You have the charisma to lead but stressful.", "hi": "आपके पास नेतृत्व करने का करिश्मा है लेकिन तनावपूर्ण।" },
+      "8": { "en": "Always busy and many pressure. \n(Downfall Number-: if you see 18 - 81 together it indicates legal, financial & relationship issues downfall)\n --> 1st downfall upto age 27 any one of this \n --> 2nd upto age 36 yr\n --> 3rd upto age 45 yr", "hi": "हमेशा व्यस्त और बहुत दबाव। \n(पतन संख्या-: यदि आप 18 - 81 एक साथ देखते हैं तो यह कानूनी, वित्तीय और संबंध संबंधी मुद्दों के पतन को इंगित करता है)\n --> 27 वर्ष तक पहला पतन \n --> 36 वर्ष तक दूसरा पतन \n --> 45 वर्ष तक तीसरा पतन" },
+      "9": { "en": "You will always alone in business/career.", "hi": "आप व्यवसाय/करियर में हमेशा अकेले रहेंगे।" }
+    },
+    "2": {
+      "1": { "en": "When you speak, you can be offensive and hurt other's feelings without realizing it.", "hi": "जब आप बोलते हैं, तो आप बिना महसूस किए दूसरों की भावनाओं को ठेस पहुँचा सकते हैं।" },
+      "2": { "en": "A soft hearted person, but talkative. It's good if you are involved in sales or any business/career that is service‐oriented", "hi": "एक नरम दिल व्यक्ति, लेकिन बातूनी। यह अच्छा है यदि आप बिक्री या किसी भी व्यवसाय/करियर में शामिल हैं जो सेवा-उन्मुख है।" },
+      "3": { "en": "Hot temper and your words/speech are offensive and unknowingly you hurt others", "hi": "गर्म मिजाज और आपके शब्द/भाषण आपत्तिजनक हैं और अनजाने में आप दूसरों को चोट पहुँचाते हैं।" },
+      "4": { "en": "A very good presenter. You talk and plan. You are not \"Talk and no Action\" type. You speak wisely.", "hi": "एक बहुत अच्छे प्रस्तुतकर्ता। आप बात करते हैं और योजना बनाते हैं। आप \"बात और कोई कार्रवाई नहीं\" प्रकार के नहीं हैं। आप समझदारी से बोलते हैं।" },
+      "5": { "en": "You speak with principles and you are firm with your words. Somehow, people will listen to you", "hi": "आप सिद्धांतों के साथ बोलते हैं और अपने शब्दों पर अडिग रहते हैं। किसी तरह, लोग आपकी बात सुनेंगे।" },
+      "6": { "en": "Your wealth/money comes from sales or any kind of business that is service oriented. You love to talk about money.", "hi": "आपका धन/पैसा बिक्री या किसी भी प्रकार के व्यवसाय से आता है जो सेवा-उन्मुख है। आपको पैसे के बारे में बात करना पसंद है।" },
+      "7": { "en": "You have the charisma to attract many people around you, more so, from opposite gender.", "hi": "आपके पास अपने आस-पास कई लोगों को आकर्षित करने का करिश्मा है, खासकर विपरीत लिंग से।" },
+      "8": { "en": "You are talkative and always busy. It is good to be in sales sector.", "hi": "आप बातूनी और हमेशा व्यस्त रहते हैं। बिक्री क्षेत्र में होना अच्छा है।" },
+      "9": { "en": "You love to talk about business/investment/ properties any successes.", "hi": "आपको व्यवसाय/निवेश/संपत्ति किसी भी सफलता के बारे में बात करना पसंद है।" }
+    },
+    "3": {
+      "1": { "en": "You attract people \"bad-mouthing\" you and you become emotional about it. In anything you do, you are often aimless.", "hi": "आप ऐसे लोगों को आकर्षित करते हैं जो आपकी \"बुराई\" करते हैं और आप इसे लेकर भावनात्मक हो जाते हैं। आप जो भी करते हैं, उसमें अक्सर लक्ष्यहीन रहते हैं।" },
+      "2": { "en": "A fast talker and you speak without worrying any consequences that may arise.", "hi": "एक तेजतर्रार बात करने वाला और आप बिना किसी परिणाम की चिंता किए बोलते हैं जो उत्पन्न हो सकते हैं।" },
+      "3": { "en": "Very aggressive yet very emotional. Very impatient.", "hi": "बहुत आक्रामक फिर भी बहुत भावनात्मक। बहुत अधीर।" },
+      "4": { "en": "You do things in a fast manner. A good organiser and quick to plan.", "hi": "आप तेजी से काम करते हैं। एक अच्छे आयोजक और योजना बनाने में तेज।" },
+      "5": { "en": "Sensitive and easily provoked. Your mood, which is unpredictable, changes very fast. Very emotional.", "hi": "संवेदनशील और आसानी से उत्तेजित। आपका मूड, जो अप्रत्याशित है, बहुत तेजी से बदलता है। बहुत भावनात्मक।" },
+      "6": { "en": "You love to invest and you will succeed.", "hi": "आपको निवेश करना पसंद है और आप सफल होंगे।" },
+      "7": { "en": "You are aggressive with friends/supporters. You tend to turn them away.", "hi": "आप दोस्तों/समर्थकों के साथ आक्रामक रहते हैं। आप उन्हें दूर भगाते हैं।" },
+      "8": { "en": "Very busy person and sometimes you do not even know what and why that makes you so busy", "hi": "बहुत व्यस्त व्यक्ति और कभी-कभी आपको यह भी नहीं पता होता कि आपको इतना व्यस्त क्या और क्यों करता है।" },
+      "9": { "en": "You will seek many business opportunities but it does not work out at the end. You will end up in vain.", "hi": "आप कई व्यावसायिक अवसरों की तलाश करेंगे लेकिन अंत में यह काम नहीं आता। आप व्यर्थ में समाप्त होंगे।" }
+    },
+    "4": {
+      "1": { "en": "Whatever your plans are, you will fail to execute, as your plans will be sabotaged. You, alone have to complete a given work. No one will assist you.", "hi": "आपकी कोई भी योजना क्यों न हो, आप उसे निष्पादित करने में विफल रहेंगे, क्योंकि आपकी योजनाओं को तोड़फोड़ किया जाएगा। आपको, अकेले ही एक दिया गया काम पूरा करना होगा। कोई आपकी सहायता नहीं करेगा।" },
+      "2": { "en": "You have the art of presentation skills.", "hi": "आपके पास प्रस्तुति कौशल की कला है।" },
+      "3": { "en": "You plan well and fast and complete the task in a very short space of time.", "hi": "आप अच्छी तरह से और तेजी से योजना बनाते हैं और बहुत कम समय में कार्य पूरा करते हैं।" },
+      "4": { "en": "You love planning and get carried away and this leads to nowhere ending up pressured.", "hi": "आपको योजना बनाना पसंद है और आप उसमें बह जाते हैं और यह कहीं नहीं ले जाता है जिससे दबाव में आ जाते हैं।" },
+      "5": { "en": "You plan with firmness and you only believe in your own principles.", "hi": "आप दृढ़ता से योजना बनाते हैं और आप केवल अपने सिद्धांतों में विश्वास करते हैं।" },
+      "6": { "en": "You will always plan how to go about getting wealth/profits. You yourself have to work alone to achieve it.", "hi": "आप हमेशा यह योजना बनाएंगे कि धन/लाभ कैसे प्राप्त करें। आपको इसे प्राप्त करने के लिए अकेले काम करना होगा।" },
+      "7": { "en": "You love to plan or give words of wisdom to others.", "hi": "आपको दूसरों को योजना बनाना या ज्ञान के शब्द देना पसंद है।" },
+      "8": { "en": "You plan under stress or duress and ending up frustrated. Usually your plan will fail.", "hi": "आप दबाव या जबरदस्ती में योजना बनाते हैं और अंत में निराश हो जाते हैं। आमतौर पर आपकी योजना विफल हो जाएगी।" },
+      "9": { "en": "A business strategist. You always strategize to succeed.", "hi": "एक व्यावसायिक रणनीतिकार। आप हमेशा सफल होने की रणनीति बनाते हैं।" }
+    },
+    "5": {
+      "1": { "en": "You are stubborn and self centered and you only believe in your own principles.", "hi": "आप जिद्दी और आत्म-केंद्रित हैं और आप केवल अपने सिद्धांतों में विश्वास करते हैं।" },
+      "2": { "en": "You speak with authority and with strong principles.", "hi": "आप अधिकार और मजबूत सिद्धांतों के साथ बोलते हैं।" },
+      "3": { "en": "You get agitated easily. You are impatient and emotional.", "hi": "आप आसानी से उत्तेजित हो जाते हैं। आप अधीर और भावनात्मक हैं।" },
+      "4": { "en": "You like to plan anything according to your own principles and you will succeed.", "hi": "आप अपने सिद्धांतों के अनुसार कुछ भी योजना बनाना पसंद करते हैं और आप सफल होंगे।" },
+      "5": { "en": "Because of your own doing, you self‐destroy yourself. This is because of your stubbornness.", "hi": "आपके अपने कर्मों के कारण, आप खुद को नष्ट कर लेते हैं। यह आपकी जिद के कारण है।" },
+      "6": { "en": "When comes to money issue, you only believe in your own principles.", "hi": "जब पैसे की बात आती है, तो आप केवल अपने सिद्धांतों में विश्वास करते हैं।" },
+      "7": { "en": "You will have many rich friends and/or will get to meet and deal with high ranking government servants. (You may attract \"court-case\" and if not careful, may be made a \"bankrupt\".)", "hi": "आपके कई अमीर दोस्त होंगे और/या उच्च पदस्थ सरकारी कर्मचारियों से मिलने और उनसे निपटने का मौका मिलेगा। (आप \"मुकदमे\" को आकर्षित कर सकते हैं और यदि सावधान न रहें, तो \"दिवालिया\" हो सकते हैं।)" },
+      "8": { "en": "You are always busy and confused.", "hi": "आप हमेशा व्यस्त और भ्रमित रहते हैं।" },
+      "9": { "en": "Be careful. Your successes/business would face many obstacles and uncertainties.", "hi": "सावधान रहें। आपके सफलताओं/व्यवसाय को कई बाधाओं और अनिश्चितताओं का सामना करना पड़ेगा।" }
+    },
+    "6": {
+      "1": { "en": "When money is in your hands, you will spend it for yourself only. You can spend on entertaining your friends too. You are spend riff.", "hi": "जब पैसा आपके हाथों में होता है, तो आप इसे केवल अपने लिए खर्च करेंगे। आप अपने दोस्तों का मनोरंजन करने के लिए भी खर्च कर सकते हैं। आप फिजूलखर्ची करते हैं।" },
+      "2": { "en": "You have to use your mouth (verbal means) in order to make money", "hi": "पैसा कमाने के लिए आपको अपने मुँह (मौखिक माध्यम) का उपयोग करना होगा।" },
+      "3": { "en": "You are a big spender and you always invest without much thinking.", "hi": "आप एक बड़े खर्चीले हैं और आप हमेशा बिना ज्यादा सोचे-समझे निवेश करते हैं।" },
+      "4": { "en": "You spend your money wisely and carefully.", "hi": "आप अपने पैसे को समझदारी और सावधानी से खर्च करते हैं।" },
+      "5": { "en": "You think very carefully before you spend your money. Because of this, you may be cheated.", "hi": "आप अपना पैसा खर्च करने से पहले बहुत सावधानी से सोचते हैं। इस कारण से, आपको धोखा दिया जा सकता है।" },
+      "6": { "en": "Money does not come easy for you. Cannot keep wealth.", "hi": "पैसा आपको आसानी से नहीं आता। धन नहीं रख सकते।" },
+      "7": { "en": "Money is spent on entertaining influential people that will benefit you.", "hi": "पैसा प्रभावशाली लोगों के मनोरंजन पर खर्च किया जाता है जो आपको लाभ पहुँचाएंगे।" },
+      "8": { "en": "Money is not easy made. Your investments may not favour you. Always busy and stressed out", "hi": "पैसा आसानी से नहीं बनता। आपके निवेश आपके पक्ष में नहीं हो सकते हैं। हमेशा व्यस्त और तनावग्रस्त।" },
+      "9": { "en": "You are a risk taker but your ventures/business/career will be successful.", "hi": "आप जोखिम लेने वाले हैं लेकिन आपके उद्यम/व्यवसाय/करियर सफल होंगे।" }
+    },
+    "7": {
+      "1": { "en": "Supporters/Friends will cheat on you.", "hi": "समर्थक/मित्र आपको धोखा देंगे।" },
+      "2": { "en": "Very friendly and you will have many friends who will advise you.", "hi": "बहुत मिलनसार और आपके कई दोस्त होंगे जो आपको सलाह देंगे।" },
+      "3": { "en": "You continue to have many new friends & supporters.", "hi": "आप लगातार नए दोस्त और समर्थक बनाते रहते हैं।" },
+      "4": { "en": "Many people whom you admire (your mentors), will help and advise you when you are in need.", "hi": "कई लोग जिनकी आप प्रशंसा करते हैं (आपके गुरु), जरूरत पड़ने पर आपकी मदद और सलाह देंगे।" },
+      "5": { "en": "Your friends/supporters would \"back-stab\" you.", "hi": "आपके दोस्त/समर्थक आपको \"पीठ में छुरा घोंप\" सकते हैं।" },
+      "6": { "en": "You will have your supporters/good friends helping you financially when you are in difficulties", "hi": "आपकी आर्थिक कठिनाइयों में आपके समर्थक/अच्छे दोस्त आपकी आर्थिक मदद करेंगे।" },
+      "7": { "en": "You are very lucky. You have many supporters. You are able to sail through difficult times.", "hi": "आप बहुत भाग्यशाली हैं। आपके कई समर्थक हैं। आप कठिन समय से गुजरने में सक्षम हैं।" },
+      "8": { "en": "Your supporters/good friends would bring stress to you.", "hi": "आपके समर्थक/अच्छे दोस्त आपको तनाव देंगे।" },
+      "9": { "en": "Your Supporters/ good Friends would assist you in your business and you will attract them to be your partners in your business/career.", "hi": "आपके समर्थक/अच्छे दोस्त आपके व्यवसाय में आपकी सहायता करेंगे और आप उन्हें अपने व्यवसाय/करियर में भागीदार बनने के लिए आकर्षित करेंगे।" }
+    },
+    "8": {
+      "1": { "en": "You are hardworking but under a lot of pressure.", "hi": "आप मेहनती हैं लेकिन बहुत दबाव में हैं।" },
+      "2": { "en": "You are always engaged in stressful talks and going round in circles without any goals in mind.", "hi": "आप हमेशा तनावपूर्ण बातों में लगे रहते हैं और बिना किसी लक्ष्य के गोल-गोल घूमते रहते हैं।" },
+      "3": { "en": "You are sensitive and easily provoked. Busy and always under stress.", "hi": "आप संवेदनशील और आसानी से उत्तेजित होते हैं। व्यस्त और हमेशा तनाव में रहते हैं।" },
+      "4": { "en": "You plan under pressure and stress. Difficult to execute your plans.", "hi": "आप दबाव और तनाव में योजना बनाते हैं। अपनी योजनाओं को निष्पादित करना मुश्किल है।" },
+      "5": { "en": "Pressure and obstacles will always be with you in whatever you undertake.", "hi": "जो कुछ भी आप करते हैं उसमें दबाव और बाधाएं हमेशा आपके साथ रहेंगी।" },
+      "6": { "en": "You will travel to make a living. A hard life and lots of hard work needed to succeed.", "hi": "आप जीविकोपार्जन के लिए यात्रा करेंगे। एक कठिन जीवन और बहुत मेहनत की आवश्यकता है।" },
+      "7": { "en": "A hardworking individual but give pressure to those around you.", "hi": "एक मेहनती व्यक्ति लेकिन अपने आस-पास के लोगों पर दबाव डालता है।" },
+      "8": { "en": "A lot of stress and you cannot stay focus.", "hi": "बहुत तनाव है और आप ध्यान केंद्रित नहीं कर पाते।" },
+      "9": { "en": "You are very stressed‐out in your business/career. Your business/career looks good but only on the surface. Your business/career has no breakthrough.", "hi": "आप अपने व्यवसाय/करियर में बहुत तनावग्रस्त हैं। आपका व्यवसाय/करियर केवल सतही तौर पर अच्छा दिखता है। आपके व्यवसाय/करियर में कोई सफलता नहीं है।" }
+    },
+    "9": {
+      "1": { "en": "You will do business/career on your own. No partnership.", "hi": "आप अपना व्यवसाय/करियर अकेले करेंगे। कोई साझेदारी नहीं।" },
+      "2": { "en": "You are the type who needs assurance before venturing into a business/career. Business/career is always your main topic in a conversation.", "hi": "आप ऐसे व्यक्ति हैं जिन्हें व्यवसाय/करियर में उतरने से पहले आश्वासन की आवश्यकता होती है। व्यवसाय/करियर हमेशा आपकी बातचीत का मुख्य विषय होता है।" },
+      "3": { "en": "Your business is fast moving. It is best to go for short-term business/successes.", "hi": "आपका व्यवसाय तेजी से आगे बढ़ रहा है। अल्पकालिक व्यवसाय/सफलताओं के लिए जाना सबसे अच्छा है।" },
+      "4": { "en": "In any business you are in, a lot of planning to do.", "hi": "आप जिस भी व्यवसाय में हैं, उसमें बहुत सारी योजनाएँ बनानी होती हैं।" },
+      "5": { "en": "Be careful. Your successes/business would face many obstacles and uncertainties.", "hi": "सावधान रहें। आपकी सफलताओं/व्यवसाय को कई बाधाओं और अनिश्चितताओं का सामना करना पड़ेगा।" },
+      "6": { "en": "Any investment you venture, it will bring you success and very good returns.", "hi": "आप जो भी निवेश करते हैं, वह आपको सफलता और बहुत अच्छा रिटर्न देगा।" },
+      "7": { "en": "Your business/career would attract a lot of customers/supporters.", "hi": "आपका व्यवसाय/करियर बहुत सारे ग्राहकों/समर्थकों को आकर्षित करेगा।" },
+      "8": { "en": "Your business would bring about a lot of unnecessary stress.", "hi": "आपका व्यवसाय बहुत सारा अनावश्यक तनाव लाएगा।" },
+      "9": { "en": "You have business acumen and this leads to a lot of business opportunities.", "hi": "आपके पास व्यावसायिक acumen है और यह बहुत सारे व्यावसायिक अवसरों को जन्म देता है।" }
+    }
+  }
+}
